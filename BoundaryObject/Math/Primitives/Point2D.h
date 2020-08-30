@@ -9,7 +9,6 @@ struct Point2D{
     float x{};
     float y{};
 
-
     inline static float Distance(const Point2D&, const Point2D&);
     inline static float SqrDistance(const Point2D&, const Point2D&);
 

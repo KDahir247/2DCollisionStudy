@@ -2,7 +2,6 @@
 // Created by kdahi on 2020-08-29.
 //
 
-#pragma once
 #ifndef MATH_LINE2D_H
 #define MATH_LINE2D_H
 
@@ -16,7 +15,7 @@ struct Line2D{
 
    inline Line2D(const Point2D&, const Vector2D&);
    inline Line2D(float,float,float,float);
-   inline Line2D(Point2D,Point2D);
+   inline Line2D(const Point2D&,const Point2D&);
 };
 
 #include "Line2D.inl"

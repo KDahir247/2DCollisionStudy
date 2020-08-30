@@ -3,8 +3,40 @@
 
 CMakeFiles/Test.dir/CollisionTests/Collision2DTests1.cpp.obj
  ../../Math/Intersections/StaticCollision.h
+ ../../Math/Primitives/HLine2D.h
+ ../../Math/Primitives/HLine2D.inl
  ../../Math/Primitives/Line2D.h
  ../../Math/Primitives/Line2D.inl
+ ../../Math/Primitives/Point2D.h
+ ../../Math/Primitives/Point2D.inl
+ ../../Math/Primitives/VLine2D.h
+ ../../Math/Primitives/VLine2D.inl
+ ../../Math/Primitives/Vector2D.h
+ ../../Math/Primitives/Vector2D.inl
+ ../../Middleware/googletest/googletest/include/gtest/gtest-death-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-matchers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-message.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-param-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-test-part.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-typed-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_pred_impl.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_prod.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-filepath.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-param-util.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-string.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-type-util.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/Collision2DTests1.cpp
+CMakeFiles/Test.dir/MathTests/AABB2DTests.cpp.obj
+ ../../Math/Primitives/AABB2D.h
+ ../../Math/Primitives/AABB2D.inl
  ../../Math/Primitives/Point2D.h
  ../../Math/Primitives/Point2D.inl
  ../../Math/Primitives/Vector2D.h
@@ -29,13 +61,43 @@ CMakeFiles/Test.dir/CollisionTests/Collision2DTests1.cpp.obj
  ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port.h
  ../../Middleware/googletest/googletest/include/gtest/internal/gtest-string.h
  ../../Middleware/googletest/googletest/include/gtest/internal/gtest-type-util.h
- C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/Collision2DTests1.cpp
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/AABB2DTests.cpp
+CMakeFiles/Test.dir/MathTests/HLine2DTests.cpp.obj
+ ../../Math/Primitives/HLine2D.h
+ ../../Math/Primitives/HLine2D.inl
+ ../../Math/Primitives/Point2D.h
+ ../../Math/Primitives/Point2D.inl
+ ../../Middleware/googletest/googletest/include/gtest/gtest-death-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-matchers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-message.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-param-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-test-part.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-typed-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_pred_impl.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_prod.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-filepath.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-param-util.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-string.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-type-util.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/HLine2DTests.cpp
 CMakeFiles/Test.dir/MathTests/Line2DTests.cpp.obj
  ../../Math/Intersections/StaticCollision.h
+ ../../Math/Primitives/HLine2D.h
+ ../../Math/Primitives/HLine2D.inl
  ../../Math/Primitives/Line2D.h
  ../../Math/Primitives/Line2D.inl
  ../../Math/Primitives/Point2D.h
  ../../Math/Primitives/Point2D.inl
+ ../../Math/Primitives/VLine2D.h
+ ../../Math/Primitives/VLine2D.inl
  ../../Math/Primitives/Vector2D.h
  ../../Math/Primitives/Vector2D.inl
  ../../Middleware/googletest/googletest/include/gtest/gtest-death-test.h
@@ -83,6 +145,88 @@ CMakeFiles/Test.dir/MathTests/Point2DTests.cpp.obj
  ../../Middleware/googletest/googletest/include/gtest/internal/gtest-string.h
  ../../Middleware/googletest/googletest/include/gtest/internal/gtest-type-util.h
  C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Point2DTests.cpp
+CMakeFiles/Test.dir/MathTests/Ray2DTests.cpp.obj
+ ../../Math/Primitives/Point2D.h
+ ../../Math/Primitives/Point2D.inl
+ ../../Math/Primitives/Ray2D.h
+ ../../Math/Primitives/Ray2D.inl
+ ../../Math/Primitives/Vector2D.h
+ ../../Math/Primitives/Vector2D.inl
+ ../../Middleware/googletest/googletest/include/gtest/gtest-death-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-matchers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-message.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-param-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-test-part.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-typed-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_pred_impl.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_prod.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-filepath.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-param-util.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-string.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-type-util.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Ray2DTests.cpp
+CMakeFiles/Test.dir/MathTests/Segment2DTests.cpp.obj
+ ../../Math/Primitives/Point2D.h
+ ../../Math/Primitives/Point2D.inl
+ ../../Math/Primitives/Segment2D.h
+ ../../Math/Primitives/Segment2D.inl
+ ../../Math/Primitives/Vector2D.h
+ ../../Math/Primitives/Vector2D.inl
+ ../../Middleware/googletest/googletest/include/gtest/gtest-death-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-matchers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-message.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-param-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-test-part.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-typed-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_pred_impl.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_prod.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-filepath.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-param-util.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-string.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-type-util.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Segment2DTests.cpp
+CMakeFiles/Test.dir/MathTests/VLine2DTests.cpp.obj
+ ../../Math/Primitives/Point2D.h
+ ../../Math/Primitives/Point2D.inl
+ ../../Math/Primitives/VLine2D.h
+ ../../Math/Primitives/VLine2D.inl
+ ../../Middleware/googletest/googletest/include/gtest/gtest-death-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-matchers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-message.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-param-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-test-part.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest-typed-test.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_pred_impl.h
+ ../../Middleware/googletest/googletest/include/gtest/gtest_prod.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-filepath.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-internal.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-param-util.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-port.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-string.h
+ ../../Middleware/googletest/googletest/include/gtest/internal/gtest-type-util.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/VLine2DTests.cpp
 CMakeFiles/Test.dir/MathTests/Vector2DTests.cpp.obj
  ../../Math/ConstVar.h
  ../../Math/Primitives/Point2D.h

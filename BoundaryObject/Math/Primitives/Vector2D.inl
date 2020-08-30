@@ -1,6 +1,3 @@
-
-#include "Vector2D.h"
-
 float Vector2D::DotProduct(const Vector2D& lhs, const Vector2D& rhs){
     return lhs.x * rhs.x + lhs.y * rhs.y;
 }
@@ -11,9 +8,7 @@ float Vector2D::CrossProduct(const Vector2D& lhs, const Vector2D& rhs){
 
 Vector2D::Vector2D(float x, float y) : x(x) , y(y){}
 
-
 Vector2D::Vector2D() : x(0), y(0) {}
-
 
 Vector2D::Vector2D(const Vector2D& vector2D) : x(vector2D.x), y(vector2D.y){}
 

@@ -95,10 +95,25 @@
 		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/Collision2DTests1.cpp">
 			<Option target="Test"/>
 		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/AABB2DTests.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/HLine2DTests.cpp">
+			<Option target="Test"/>
+		</Unit>
 		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Line2DTests.cpp">
 			<Option target="Test"/>
 		</Unit>
 		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Point2DTests.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Ray2DTests.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Segment2DTests.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/VLine2DTests.cpp">
 			<Option target="Test"/>
 		</Unit>
 		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Vector2DTests.cpp">

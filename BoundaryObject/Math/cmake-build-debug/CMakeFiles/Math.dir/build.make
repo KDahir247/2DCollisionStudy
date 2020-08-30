@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math
+CMAKE_SOURCE_DIR = C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles\Math.dir\depend.make
@@ -63,40 +63,40 @@ include CMakeFiles\Math.dir\flags.make
 
 CMakeFiles\Math.dir\main.cpp.obj: CMakeFiles\Math.dir\flags.make
 CMakeFiles\Math.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Math.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Math.dir/main.cpp.obj"
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Math.dir\main.cpp.obj /FdCMakeFiles\Math.dir\Math.pdb /FS -c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Math.dir\main.cpp.obj /FdCMakeFiles\Math.dir\Math.pdb /FS -c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\main.cpp
 <<
 
 CMakeFiles\Math.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Math.dir/main.cpp.i"
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\Math.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\main.cpp
 <<
 
 CMakeFiles\Math.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Math.dir/main.cpp.s"
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\main.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\main.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\main.cpp
 <<
 
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: CMakeFiles\Math.dir\flags.make
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Intersections\StaticCollision.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.obj"
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj /FdCMakeFiles\Math.dir\Math.pdb /FS -c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\Intersections\StaticCollision.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj /FdCMakeFiles\Math.dir\Math.pdb /FS -c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\Intersections\StaticCollision.cpp
 <<
 
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.i"
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\Intersections\StaticCollision.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\Intersections\StaticCollision.cpp
 <<
 
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.s"
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\Intersections\StaticCollision.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\Intersections\StaticCollision.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\Intersections\StaticCollision.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\Intersections\StaticCollision.cpp
 <<
 
 # Object files for target Math
@@ -111,7 +111,7 @@ Math.lib: CMakeFiles\Math.dir\main.cpp.obj
 Math.lib: CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj
 Math.lib: CMakeFiles\Math.dir\build.make
 Math.lib: CMakeFiles\Math.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library Math.lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library Math.lib"
 	$(CMAKE_COMMAND) -P CMakeFiles\Math.dir\cmake_clean_target.cmake
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\link.exe /lib /nologo /machine:X86 /out:Math.lib @CMakeFiles\Math.dir\objects1.rsp 
 
@@ -125,6 +125,6 @@ CMakeFiles\Math.dir\clean:
 .PHONY : CMakeFiles\Math.dir\clean
 
 CMakeFiles\Math.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\cmake-build-debug C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\cmake-build-debug C:\Users\kdahi\OneDrive\Documents\Clion\AABB\BoundaryObject\Math\cmake-build-debug\CMakeFiles\Math.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles\Math.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles\Math.dir\depend
 

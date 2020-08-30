@@ -154,6 +154,60 @@ CollisionTests\Collision2DTests1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\Collision2DTests1.cpp.s
 .PHONY : CollisionTests\Collision2DTests1.cpp.s
 
+MathTests\AABB2DTests.obj: MathTests\AABB2DTests.cpp.obj
+
+.PHONY : MathTests\AABB2DTests.obj
+
+# target to build an object file
+MathTests\AABB2DTests.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\AABB2DTests.cpp.obj
+.PHONY : MathTests\AABB2DTests.cpp.obj
+
+MathTests\AABB2DTests.i: MathTests\AABB2DTests.cpp.i
+
+.PHONY : MathTests\AABB2DTests.i
+
+# target to preprocess a source file
+MathTests\AABB2DTests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\AABB2DTests.cpp.i
+.PHONY : MathTests\AABB2DTests.cpp.i
+
+MathTests\AABB2DTests.s: MathTests\AABB2DTests.cpp.s
+
+.PHONY : MathTests\AABB2DTests.s
+
+# target to generate assembly for a file
+MathTests\AABB2DTests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\AABB2DTests.cpp.s
+.PHONY : MathTests\AABB2DTests.cpp.s
+
+MathTests\HLine2DTests.obj: MathTests\HLine2DTests.cpp.obj
+
+.PHONY : MathTests\HLine2DTests.obj
+
+# target to build an object file
+MathTests\HLine2DTests.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\HLine2DTests.cpp.obj
+.PHONY : MathTests\HLine2DTests.cpp.obj
+
+MathTests\HLine2DTests.i: MathTests\HLine2DTests.cpp.i
+
+.PHONY : MathTests\HLine2DTests.i
+
+# target to preprocess a source file
+MathTests\HLine2DTests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\HLine2DTests.cpp.i
+.PHONY : MathTests\HLine2DTests.cpp.i
+
+MathTests\HLine2DTests.s: MathTests\HLine2DTests.cpp.s
+
+.PHONY : MathTests\HLine2DTests.s
+
+# target to generate assembly for a file
+MathTests\HLine2DTests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\HLine2DTests.cpp.s
+.PHONY : MathTests\HLine2DTests.cpp.s
+
 MathTests\Line2DTests.obj: MathTests\Line2DTests.cpp.obj
 
 .PHONY : MathTests\Line2DTests.obj
@@ -207,6 +261,87 @@ MathTests\Point2DTests.s: MathTests\Point2DTests.cpp.s
 MathTests\Point2DTests.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\Point2DTests.cpp.s
 .PHONY : MathTests\Point2DTests.cpp.s
+
+MathTests\Ray2DTests.obj: MathTests\Ray2DTests.cpp.obj
+
+.PHONY : MathTests\Ray2DTests.obj
+
+# target to build an object file
+MathTests\Ray2DTests.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\Ray2DTests.cpp.obj
+.PHONY : MathTests\Ray2DTests.cpp.obj
+
+MathTests\Ray2DTests.i: MathTests\Ray2DTests.cpp.i
+
+.PHONY : MathTests\Ray2DTests.i
+
+# target to preprocess a source file
+MathTests\Ray2DTests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\Ray2DTests.cpp.i
+.PHONY : MathTests\Ray2DTests.cpp.i
+
+MathTests\Ray2DTests.s: MathTests\Ray2DTests.cpp.s
+
+.PHONY : MathTests\Ray2DTests.s
+
+# target to generate assembly for a file
+MathTests\Ray2DTests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\Ray2DTests.cpp.s
+.PHONY : MathTests\Ray2DTests.cpp.s
+
+MathTests\Segment2DTests.obj: MathTests\Segment2DTests.cpp.obj
+
+.PHONY : MathTests\Segment2DTests.obj
+
+# target to build an object file
+MathTests\Segment2DTests.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\Segment2DTests.cpp.obj
+.PHONY : MathTests\Segment2DTests.cpp.obj
+
+MathTests\Segment2DTests.i: MathTests\Segment2DTests.cpp.i
+
+.PHONY : MathTests\Segment2DTests.i
+
+# target to preprocess a source file
+MathTests\Segment2DTests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\Segment2DTests.cpp.i
+.PHONY : MathTests\Segment2DTests.cpp.i
+
+MathTests\Segment2DTests.s: MathTests\Segment2DTests.cpp.s
+
+.PHONY : MathTests\Segment2DTests.s
+
+# target to generate assembly for a file
+MathTests\Segment2DTests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\Segment2DTests.cpp.s
+.PHONY : MathTests\Segment2DTests.cpp.s
+
+MathTests\VLine2DTests.obj: MathTests\VLine2DTests.cpp.obj
+
+.PHONY : MathTests\VLine2DTests.obj
+
+# target to build an object file
+MathTests\VLine2DTests.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\VLine2DTests.cpp.obj
+.PHONY : MathTests\VLine2DTests.cpp.obj
+
+MathTests\VLine2DTests.i: MathTests\VLine2DTests.cpp.i
+
+.PHONY : MathTests\VLine2DTests.i
+
+# target to preprocess a source file
+MathTests\VLine2DTests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\VLine2DTests.cpp.i
+.PHONY : MathTests\VLine2DTests.cpp.i
+
+MathTests\VLine2DTests.s: MathTests\VLine2DTests.cpp.s
+
+.PHONY : MathTests\VLine2DTests.s
+
+# target to generate assembly for a file
+MathTests\VLine2DTests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\MathTests\VLine2DTests.cpp.s
+.PHONY : MathTests\VLine2DTests.cpp.s
 
 MathTests\Vector2DTests.obj: MathTests\Vector2DTests.cpp.obj
 
@@ -301,12 +436,27 @@ help:
 	@echo ... CollisionTests/Collision2DTests1.obj
 	@echo ... CollisionTests/Collision2DTests1.i
 	@echo ... CollisionTests/Collision2DTests1.s
+	@echo ... MathTests/AABB2DTests.obj
+	@echo ... MathTests/AABB2DTests.i
+	@echo ... MathTests/AABB2DTests.s
+	@echo ... MathTests/HLine2DTests.obj
+	@echo ... MathTests/HLine2DTests.i
+	@echo ... MathTests/HLine2DTests.s
 	@echo ... MathTests/Line2DTests.obj
 	@echo ... MathTests/Line2DTests.i
 	@echo ... MathTests/Line2DTests.s
 	@echo ... MathTests/Point2DTests.obj
 	@echo ... MathTests/Point2DTests.i
 	@echo ... MathTests/Point2DTests.s
+	@echo ... MathTests/Ray2DTests.obj
+	@echo ... MathTests/Ray2DTests.i
+	@echo ... MathTests/Ray2DTests.s
+	@echo ... MathTests/Segment2DTests.obj
+	@echo ... MathTests/Segment2DTests.i
+	@echo ... MathTests/Segment2DTests.s
+	@echo ... MathTests/VLine2DTests.obj
+	@echo ... MathTests/VLine2DTests.i
+	@echo ... MathTests/VLine2DTests.s
 	@echo ... MathTests/Vector2DTests.obj
 	@echo ... MathTests/Vector2DTests.i
 	@echo ... MathTests/Vector2DTests.s

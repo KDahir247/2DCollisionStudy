@@ -3,10 +3,14 @@
 
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Intersections\StaticCollision.cpp
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Intersections\StaticCollision.h
+CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\HLine2D.h
+CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\HLine2D.inl
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\Line2D.h
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\Line2D.inl
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\Point2D.h
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\Point2D.inl
+CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\VLine2D.h
+CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\VLine2D.inl
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\Vector2D.h
 CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Primitives\Vector2D.inl
 

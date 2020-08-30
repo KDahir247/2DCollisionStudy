@@ -30,3 +30,22 @@ TEST(COLLISION2D, LINELINECOLLISION){
     EXPECT_FLOAT_EQ(collisionPoint1.x, 1);
     EXPECT_FLOAT_EQ(collisionPoint1.y, 0);
 }
+
+
+TEST(COLLISION2D, LINEHLINECOLLISION){
+    HLine2D hLine2D(5);
+    Point2D point2D(-3, 2);
+    Vector2D direction2D(1, -2);
+    Line2D line2D(point2D, direction2D);
+    Point2D collisionPoint = Collision::LineHLineCollision(line2D, hLine2D);
+}
+
+TEST(COLLISION2D, LINEVLINECOLLISION){
+    VLine2D vLine2D(6);
+    Point2D point2D(-12, 6);
+    Vector2D direction(1, -3);
+    Line2D line2D(point2D, direction);
+    Point2D collisionPoint = Collision::LineVLineCollision(line2D, vLine2D);
+    EXPECT_FLOAT_EQ(collisionPoint.x, 6);
+    EXPECT_FLOAT_EQ(collisionPoint.y, -48);
+}

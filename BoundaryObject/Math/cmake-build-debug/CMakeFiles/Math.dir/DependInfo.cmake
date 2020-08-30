@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/BoundaryObject/Math/Intersections/StaticCollision.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.obj"
-  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/BoundaryObject/Math/main.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/main.cpp.obj"
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticCollision.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.obj"
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/main.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
