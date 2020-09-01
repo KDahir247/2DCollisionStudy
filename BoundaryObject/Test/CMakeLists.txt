@@ -3,7 +3,10 @@ project(Test)
 
 set(CMAKE_CXX_STANDARD 17)
 set(GOOGLE_TEST_INCLUDE ../Middleware/googletest/googletest)
+
 set(INTERSECTION_INCLUDE ${PROJECT_SOURCE_DIR}/../Math/Intersections)
+set(COLLISIONAREA_INCLUDE ${PROJECT_SOURCE_DIR}/../Math/CollisionArea)
+set(COLLISIONNORMAL_INCLUDE ${PROJECT_SOURCE_DIR}/../Math/CollisionNormal)
 
 include_directories(Test ${GOOGLE_TEST_INCLUDE})
 include_directories(Test ${GOOGLE_TEST_INCLUDE}/include)

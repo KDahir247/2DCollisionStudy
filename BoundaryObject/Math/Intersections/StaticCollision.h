@@ -7,7 +7,8 @@
 #include "../Primitives/Line2D.h"
 #include "../Primitives/HLine2D.h"
 #include "../Primitives/VLine2D.h"
-struct Collision{
+class Collision{
+public:
      static Point2D LineLineCollision(const Line2D&, const Line2D&);
      static Point2D LineHLineCollision(const Line2D&, const HLine2D&);
      static Point2D LineVLineCollision(const Line2D&, const VLine2D&);

@@ -6,8 +6,6 @@
 
 #IncludeRegexTransform: 
 
-../../Math/ConstVar.h
-
 ../../Math/Intersections/StaticCollision.h
 ../Primitives/Point2D.h
 ../../Math/Primitives/Point2D.h
@@ -17,14 +15,6 @@
 ../../Math/Primitives/HLine2D.h
 ../Primitives/VLine2D.h
 ../../Math/Primitives/VLine2D.h
-
-../../Math/Primitives/AABB2D.h
-Vector2D.h
-../../Math/Primitives/Vector2D.h
-AABB2D.inl
-../../Math/Primitives/AABB2D.inl
-
-../../Math/Primitives/AABB2D.inl
 
 ../../Math/Primitives/HLine2D.h
 Point2D.h
@@ -53,22 +43,6 @@ Point2D.inl
 ../../Math/Primitives/Point2D.inl
 
 ../../Math/Primitives/Point2D.inl
-
-../../Math/Primitives/Ray2D.h
-Vector2D.h
-../../Math/Primitives/Vector2D.h
-Ray2D.inl
-../../Math/Primitives/Ray2D.inl
-
-../../Math/Primitives/Ray2D.inl
-
-../../Math/Primitives/Segment2D.h
-Vector2D.h
-../../Math/Primitives/Vector2D.h
-Segment2D.inl
-../../Math/Primitives/Segment2D.inl
-
-../../Math/Primitives/Segment2D.inl
 
 ../../Math/Primitives/VLine2D.h
 Point2D.h
@@ -392,61 +366,11 @@ Intersections/StaticCollision.h
 iostream
 -
 
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/AABB2DTests.cpp
-gtest/gtest.h
--
-Primitives/AABB2D.h
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Primitives/AABB2D.h
-
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/HLine2DTests.cpp
-gtest/gtest.h
--
-Primitives/HLine2D.h
--
-
 C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Line2DTests.cpp
 Primitives/Line2D.h
 -
 gtest/gtest.h
 -
 Intersections/StaticCollision.h
--
-
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Point2DTests.cpp
-gtest/gtest.h
--
-Primitives/Point2D.h
--
-
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Ray2DTests.cpp
-gtest/gtest.h
--
-Primitives/Ray2D.h
--
-
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Segment2DTests.cpp
-gtest/gtest.h
--
-Primitives/Segment2D.h
--
-
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/VLine2DTests.cpp
-gtest/gtest.h
--
-Primitives/VLine2D.h
--
-
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Vector2DTests.cpp
-gtest/gtest.h
--
-Primitives/Vector2D.h
--
-ConstVar.h
--
-../TestUtility.h
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/TestUtility.h
-
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/TestUtility.h
-cmath
 -
 

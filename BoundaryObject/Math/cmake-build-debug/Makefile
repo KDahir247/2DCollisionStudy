@@ -127,6 +127,60 @@ Math\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\build
 .PHONY : Math\fast
 
+CollisionArea\CollisionArea.obj: CollisionArea\CollisionArea.cpp.obj
+
+.PHONY : CollisionArea\CollisionArea.obj
+
+# target to build an object file
+CollisionArea\CollisionArea.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionArea\CollisionArea.cpp.obj
+.PHONY : CollisionArea\CollisionArea.cpp.obj
+
+CollisionArea\CollisionArea.i: CollisionArea\CollisionArea.cpp.i
+
+.PHONY : CollisionArea\CollisionArea.i
+
+# target to preprocess a source file
+CollisionArea\CollisionArea.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionArea\CollisionArea.cpp.i
+.PHONY : CollisionArea\CollisionArea.cpp.i
+
+CollisionArea\CollisionArea.s: CollisionArea\CollisionArea.cpp.s
+
+.PHONY : CollisionArea\CollisionArea.s
+
+# target to generate assembly for a file
+CollisionArea\CollisionArea.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionArea\CollisionArea.cpp.s
+.PHONY : CollisionArea\CollisionArea.cpp.s
+
+CollisionNormal\CollisionNormal.obj: CollisionNormal\CollisionNormal.cpp.obj
+
+.PHONY : CollisionNormal\CollisionNormal.obj
+
+# target to build an object file
+CollisionNormal\CollisionNormal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionNormal\CollisionNormal.cpp.obj
+.PHONY : CollisionNormal\CollisionNormal.cpp.obj
+
+CollisionNormal\CollisionNormal.i: CollisionNormal\CollisionNormal.cpp.i
+
+.PHONY : CollisionNormal\CollisionNormal.i
+
+# target to preprocess a source file
+CollisionNormal\CollisionNormal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionNormal\CollisionNormal.cpp.i
+.PHONY : CollisionNormal\CollisionNormal.cpp.i
+
+CollisionNormal\CollisionNormal.s: CollisionNormal\CollisionNormal.cpp.s
+
+.PHONY : CollisionNormal\CollisionNormal.s
+
+# target to generate assembly for a file
+CollisionNormal\CollisionNormal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionNormal\CollisionNormal.cpp.s
+.PHONY : CollisionNormal\CollisionNormal.cpp.s
+
 Intersections\StaticCollision.obj: Intersections\StaticCollision.cpp.obj
 
 .PHONY : Intersections\StaticCollision.obj
@@ -190,6 +244,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Math
+	@echo ... CollisionArea/CollisionArea.obj
+	@echo ... CollisionArea/CollisionArea.i
+	@echo ... CollisionArea/CollisionArea.s
+	@echo ... CollisionNormal/CollisionNormal.obj
+	@echo ... CollisionNormal/CollisionNormal.i
+	@echo ... CollisionNormal/CollisionNormal.s
 	@echo ... Intersections/StaticCollision.obj
 	@echo ... Intersections/StaticCollision.i
 	@echo ... Intersections/StaticCollision.s

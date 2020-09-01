@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/CollisionArea/CollisionArea.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/CollisionArea/CollisionArea.cpp.obj"
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/CollisionNormal/CollisionNormal.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/CollisionNormal/CollisionNormal.cpp.obj"
   "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticCollision.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.obj"
   "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/main.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/main.cpp.obj"
   )
