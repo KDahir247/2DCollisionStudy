@@ -18,10 +18,13 @@ set(TEST_FILE
         MathTests/Point2DTests.cpp
         MathTests/Line2DTests.cpp
         MathTests/HLine2DTests.cpp
-        CollisionTests/Collision2DTests1.cpp
+        CollisionTests/IntersectionTests.cpp
         MathTests/VLine2DTests.cpp
         MathTests/Ray2DTests.cpp
-        MathTests/Segment2DTests.cpp MathTests/AABB2DTests.cpp)
+        MathTests/Segment2DTests.cpp
+        MathTests/AABB2DTests.cpp
+        CollisionTests/ZoneTests.cpp
+        CollisionTests/CollisionTests.cpp)
 
 set(LIB_DEPENDENCY ${PROJECT_SOURCE_DIR}/../Math/cmake-build-debug)
 message(${LIB_DEPENDENCY}/Math.lib)

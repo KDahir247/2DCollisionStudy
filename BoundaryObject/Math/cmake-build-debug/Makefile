@@ -181,32 +181,86 @@ CollisionNormal\CollisionNormal.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionNormal\CollisionNormal.cpp.s
 .PHONY : CollisionNormal\CollisionNormal.cpp.s
 
-Intersections\StaticCollision.obj: Intersections\StaticCollision.cpp.obj
+CollisionTest\CollisionTest.obj: CollisionTest\CollisionTest.cpp.obj
 
-.PHONY : Intersections\StaticCollision.obj
+.PHONY : CollisionTest\CollisionTest.obj
 
 # target to build an object file
-Intersections\StaticCollision.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj
-.PHONY : Intersections\StaticCollision.cpp.obj
+CollisionTest\CollisionTest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.obj
+.PHONY : CollisionTest\CollisionTest.cpp.obj
 
-Intersections\StaticCollision.i: Intersections\StaticCollision.cpp.i
+CollisionTest\CollisionTest.i: CollisionTest\CollisionTest.cpp.i
 
-.PHONY : Intersections\StaticCollision.i
+.PHONY : CollisionTest\CollisionTest.i
 
 # target to preprocess a source file
-Intersections\StaticCollision.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.i
-.PHONY : Intersections\StaticCollision.cpp.i
+CollisionTest\CollisionTest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.i
+.PHONY : CollisionTest\CollisionTest.cpp.i
 
-Intersections\StaticCollision.s: Intersections\StaticCollision.cpp.s
+CollisionTest\CollisionTest.s: CollisionTest\CollisionTest.cpp.s
 
-.PHONY : Intersections\StaticCollision.s
+.PHONY : CollisionTest\CollisionTest.s
 
 # target to generate assembly for a file
-Intersections\StaticCollision.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.s
-.PHONY : Intersections\StaticCollision.cpp.s
+CollisionTest\CollisionTest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.s
+.PHONY : CollisionTest\CollisionTest.cpp.s
+
+Intersections\StaticIntersection.obj: Intersections\StaticIntersection.cpp.obj
+
+.PHONY : Intersections\StaticIntersection.obj
+
+# target to build an object file
+Intersections\StaticIntersection.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.obj
+.PHONY : Intersections\StaticIntersection.cpp.obj
+
+Intersections\StaticIntersection.i: Intersections\StaticIntersection.cpp.i
+
+.PHONY : Intersections\StaticIntersection.i
+
+# target to preprocess a source file
+Intersections\StaticIntersection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.i
+.PHONY : Intersections\StaticIntersection.cpp.i
+
+Intersections\StaticIntersection.s: Intersections\StaticIntersection.cpp.s
+
+.PHONY : Intersections\StaticIntersection.s
+
+# target to generate assembly for a file
+Intersections\StaticIntersection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.s
+.PHONY : Intersections\StaticIntersection.cpp.s
+
+StaticCollision\StaticCollision.obj: StaticCollision\StaticCollision.cpp.obj
+
+.PHONY : StaticCollision\StaticCollision.obj
+
+# target to build an object file
+StaticCollision\StaticCollision.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj
+.PHONY : StaticCollision\StaticCollision.cpp.obj
+
+StaticCollision\StaticCollision.i: StaticCollision\StaticCollision.cpp.i
+
+.PHONY : StaticCollision\StaticCollision.i
+
+# target to preprocess a source file
+StaticCollision\StaticCollision.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.i
+.PHONY : StaticCollision\StaticCollision.cpp.i
+
+StaticCollision\StaticCollision.s: StaticCollision\StaticCollision.cpp.s
+
+.PHONY : StaticCollision\StaticCollision.s
+
+# target to generate assembly for a file
+StaticCollision\StaticCollision.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Math.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.s
+.PHONY : StaticCollision\StaticCollision.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -250,9 +304,15 @@ help:
 	@echo ... CollisionNormal/CollisionNormal.obj
 	@echo ... CollisionNormal/CollisionNormal.i
 	@echo ... CollisionNormal/CollisionNormal.s
-	@echo ... Intersections/StaticCollision.obj
-	@echo ... Intersections/StaticCollision.i
-	@echo ... Intersections/StaticCollision.s
+	@echo ... CollisionTest/CollisionTest.obj
+	@echo ... CollisionTest/CollisionTest.i
+	@echo ... CollisionTest/CollisionTest.s
+	@echo ... Intersections/StaticIntersection.obj
+	@echo ... Intersections/StaticIntersection.i
+	@echo ... Intersections/StaticIntersection.s
+	@echo ... StaticCollision/StaticCollision.obj
+	@echo ... StaticCollision/StaticCollision.i
+	@echo ... StaticCollision/StaticCollision.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -80,23 +80,23 @@ CMakeFiles\Math.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\main.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\main.cpp
 <<
 
-CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: CMakeFiles\Math.dir\flags.make
-CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj: ..\Intersections\StaticCollision.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.obj"
+CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.obj: CMakeFiles\Math.dir\flags.make
+CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.obj: ..\Intersections\StaticIntersection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Math.dir/Intersections/StaticIntersection.cpp.obj"
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj /FdCMakeFiles\Math.dir\Math.pdb /FS -c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\Intersections\StaticCollision.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.obj /FdCMakeFiles\Math.dir\Math.pdb /FS -c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\Intersections\StaticIntersection.cpp
 <<
 
-CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.i"
-	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\Intersections\StaticCollision.cpp
+CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Math.dir/Intersections/StaticIntersection.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\Intersections\StaticIntersection.cpp
 <<
 
-CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.s"
+CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Math.dir/Intersections/StaticIntersection.cpp.s"
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\Intersections\StaticCollision.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\Intersections\StaticCollision.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\Intersections\StaticIntersection.cpp
 <<
 
 CMakeFiles\Math.dir\CollisionArea\CollisionArea.cpp.obj: CMakeFiles\Math.dir\flags.make
@@ -137,23 +137,65 @@ CMakeFiles\Math.dir\CollisionNormal\CollisionNormal.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\CollisionNormal\CollisionNormal.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\CollisionNormal\CollisionNormal.cpp
 <<
 
+CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.obj: CMakeFiles\Math.dir\flags.make
+CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.obj: ..\CollisionTest\CollisionTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Math.dir/CollisionTest/CollisionTest.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.obj /FdCMakeFiles\Math.dir\Math.pdb /FS -c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\CollisionTest\CollisionTest.cpp
+<<
+
+CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Math.dir/CollisionTest/CollisionTest.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\CollisionTest\CollisionTest.cpp
+<<
+
+CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Math.dir/CollisionTest/CollisionTest.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\CollisionTest\CollisionTest.cpp
+<<
+
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: CMakeFiles\Math.dir\flags.make
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\StaticCollision\StaticCollision.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Math.dir/StaticCollision/StaticCollision.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj /FdCMakeFiles\Math.dir\Math.pdb /FS -c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\StaticCollision\StaticCollision.cpp
+<<
+
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Math.dir/StaticCollision/StaticCollision.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\StaticCollision\StaticCollision.cpp
+<<
+
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Math.dir/StaticCollision/StaticCollision.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.s /c C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\StaticCollision\StaticCollision.cpp
+<<
+
 # Object files for target Math
 Math_OBJECTS = \
 "CMakeFiles\Math.dir\main.cpp.obj" \
-"CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj" \
+"CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.obj" \
 "CMakeFiles\Math.dir\CollisionArea\CollisionArea.cpp.obj" \
-"CMakeFiles\Math.dir\CollisionNormal\CollisionNormal.cpp.obj"
+"CMakeFiles\Math.dir\CollisionNormal\CollisionNormal.cpp.obj" \
+"CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.obj" \
+"CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj"
 
 # External object files for target Math
 Math_EXTERNAL_OBJECTS =
 
 Math.lib: CMakeFiles\Math.dir\main.cpp.obj
-Math.lib: CMakeFiles\Math.dir\Intersections\StaticCollision.cpp.obj
+Math.lib: CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.obj
 Math.lib: CMakeFiles\Math.dir\CollisionArea\CollisionArea.cpp.obj
 Math.lib: CMakeFiles\Math.dir\CollisionNormal\CollisionNormal.cpp.obj
+Math.lib: CMakeFiles\Math.dir\CollisionTest\CollisionTest.cpp.obj
+Math.lib: CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj
 Math.lib: CMakeFiles\Math.dir\build.make
 Math.lib: CMakeFiles\Math.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library Math.lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\kdahi\OneDrive\Documents\Clion\AABB\CollisionStudy\BoundaryObject\Math\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX static library Math.lib"
 	$(CMAKE_COMMAND) -P CMakeFiles\Math.dir\cmake_clean_target.cmake
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\link.exe /lib /nologo /machine:X86 /out:Math.lib @CMakeFiles\Math.dir\objects1.rsp 
 

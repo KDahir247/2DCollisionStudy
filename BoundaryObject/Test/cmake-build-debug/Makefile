@@ -127,32 +127,86 @@ Test\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\build
 .PHONY : Test\fast
 
-CollisionTests\Collision2DTests1.obj: CollisionTests\Collision2DTests1.cpp.obj
+CollisionTests\CollisionTests.obj: CollisionTests\CollisionTests.cpp.obj
 
-.PHONY : CollisionTests\Collision2DTests1.obj
+.PHONY : CollisionTests\CollisionTests.obj
 
 # target to build an object file
-CollisionTests\Collision2DTests1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\Collision2DTests1.cpp.obj
-.PHONY : CollisionTests\Collision2DTests1.cpp.obj
+CollisionTests\CollisionTests.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\CollisionTests.cpp.obj
+.PHONY : CollisionTests\CollisionTests.cpp.obj
 
-CollisionTests\Collision2DTests1.i: CollisionTests\Collision2DTests1.cpp.i
+CollisionTests\CollisionTests.i: CollisionTests\CollisionTests.cpp.i
 
-.PHONY : CollisionTests\Collision2DTests1.i
+.PHONY : CollisionTests\CollisionTests.i
 
 # target to preprocess a source file
-CollisionTests\Collision2DTests1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\Collision2DTests1.cpp.i
-.PHONY : CollisionTests\Collision2DTests1.cpp.i
+CollisionTests\CollisionTests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\CollisionTests.cpp.i
+.PHONY : CollisionTests\CollisionTests.cpp.i
 
-CollisionTests\Collision2DTests1.s: CollisionTests\Collision2DTests1.cpp.s
+CollisionTests\CollisionTests.s: CollisionTests\CollisionTests.cpp.s
 
-.PHONY : CollisionTests\Collision2DTests1.s
+.PHONY : CollisionTests\CollisionTests.s
 
 # target to generate assembly for a file
-CollisionTests\Collision2DTests1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\Collision2DTests1.cpp.s
-.PHONY : CollisionTests\Collision2DTests1.cpp.s
+CollisionTests\CollisionTests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\CollisionTests.cpp.s
+.PHONY : CollisionTests\CollisionTests.cpp.s
+
+CollisionTests\IntersectionTests.obj: CollisionTests\IntersectionTests.cpp.obj
+
+.PHONY : CollisionTests\IntersectionTests.obj
+
+# target to build an object file
+CollisionTests\IntersectionTests.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\IntersectionTests.cpp.obj
+.PHONY : CollisionTests\IntersectionTests.cpp.obj
+
+CollisionTests\IntersectionTests.i: CollisionTests\IntersectionTests.cpp.i
+
+.PHONY : CollisionTests\IntersectionTests.i
+
+# target to preprocess a source file
+CollisionTests\IntersectionTests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\IntersectionTests.cpp.i
+.PHONY : CollisionTests\IntersectionTests.cpp.i
+
+CollisionTests\IntersectionTests.s: CollisionTests\IntersectionTests.cpp.s
+
+.PHONY : CollisionTests\IntersectionTests.s
+
+# target to generate assembly for a file
+CollisionTests\IntersectionTests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\IntersectionTests.cpp.s
+.PHONY : CollisionTests\IntersectionTests.cpp.s
+
+CollisionTests\ZoneTests.obj: CollisionTests\ZoneTests.cpp.obj
+
+.PHONY : CollisionTests\ZoneTests.obj
+
+# target to build an object file
+CollisionTests\ZoneTests.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\ZoneTests.cpp.obj
+.PHONY : CollisionTests\ZoneTests.cpp.obj
+
+CollisionTests\ZoneTests.i: CollisionTests\ZoneTests.cpp.i
+
+.PHONY : CollisionTests\ZoneTests.i
+
+# target to preprocess a source file
+CollisionTests\ZoneTests.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\ZoneTests.cpp.i
+.PHONY : CollisionTests\ZoneTests.cpp.i
+
+CollisionTests\ZoneTests.s: CollisionTests\ZoneTests.cpp.s
+
+.PHONY : CollisionTests\ZoneTests.s
+
+# target to generate assembly for a file
+CollisionTests\ZoneTests.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Test.dir\CollisionTests\ZoneTests.cpp.s
+.PHONY : CollisionTests\ZoneTests.cpp.s
 
 MathTests\AABB2DTests.obj: MathTests\AABB2DTests.cpp.obj
 
@@ -433,9 +487,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Test
-	@echo ... CollisionTests/Collision2DTests1.obj
-	@echo ... CollisionTests/Collision2DTests1.i
-	@echo ... CollisionTests/Collision2DTests1.s
+	@echo ... CollisionTests/CollisionTests.obj
+	@echo ... CollisionTests/CollisionTests.i
+	@echo ... CollisionTests/CollisionTests.s
+	@echo ... CollisionTests/IntersectionTests.obj
+	@echo ... CollisionTests/IntersectionTests.i
+	@echo ... CollisionTests/IntersectionTests.s
+	@echo ... CollisionTests/ZoneTests.obj
+	@echo ... CollisionTests/ZoneTests.i
+	@echo ... CollisionTests/ZoneTests.s
 	@echo ... MathTests/AABB2DTests.obj
 	@echo ... MathTests/AABB2DTests.i
 	@echo ... MathTests/AABB2DTests.s

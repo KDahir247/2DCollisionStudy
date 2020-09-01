@@ -96,10 +96,22 @@
 		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/CollisionNormal/CollisionNormal.h">
 			<Option target="Math"/>
 		</Unit>
-		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticCollision.cpp">
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/CollisionTest/CollisionTest.cpp">
 			<Option target="Math"/>
 		</Unit>
-		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticCollision.h">
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/CollisionTest/CollisionTest.h">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticIntersection.cpp">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticIntersection.h">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/StaticCollision/StaticCollision.cpp">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/StaticCollision/StaticCollision.h">
 			<Option target="Math"/>
 		</Unit>
 		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/main.cpp">

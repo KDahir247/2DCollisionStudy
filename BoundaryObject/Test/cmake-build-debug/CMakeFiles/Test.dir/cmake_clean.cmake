@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Test.dir/CollisionTests/Collision2DTests1.cpp.obj"
+  "CMakeFiles/Test.dir/CollisionTests/CollisionTests.cpp.obj"
+  "CMakeFiles/Test.dir/CollisionTests/IntersectionTests.cpp.obj"
+  "CMakeFiles/Test.dir/CollisionTests/ZoneTests.cpp.obj"
   "CMakeFiles/Test.dir/MathTests/AABB2DTests.cpp.obj"
   "CMakeFiles/Test.dir/MathTests/HLine2DTests.cpp.obj"
   "CMakeFiles/Test.dir/MathTests/Line2DTests.cpp.obj"

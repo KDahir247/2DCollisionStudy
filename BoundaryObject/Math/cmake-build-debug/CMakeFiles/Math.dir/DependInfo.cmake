@@ -6,7 +6,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/CollisionArea/CollisionArea.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/CollisionArea/CollisionArea.cpp.obj"
   "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/CollisionNormal/CollisionNormal.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/CollisionNormal/CollisionNormal.cpp.obj"
-  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticCollision.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/Intersections/StaticCollision.cpp.obj"
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/CollisionTest/CollisionTest.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/CollisionTest/CollisionTest.cpp.obj"
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticIntersection.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/Intersections/StaticIntersection.cpp.obj"
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/StaticCollision/StaticCollision.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/StaticCollision/StaticCollision.cpp.obj"
   "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/main.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/cmake-build-debug/CMakeFiles/Math.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

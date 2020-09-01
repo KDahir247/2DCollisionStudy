@@ -4,7 +4,7 @@
 
 #include <Primitives/Line2D.h>
 #include <gtest/gtest.h>
-#include <Intersections/StaticCollision.h>
+#include <Intersections/StaticIntersection.h>
 
 TEST(LINE2D, CONSTRUCTOR){
 

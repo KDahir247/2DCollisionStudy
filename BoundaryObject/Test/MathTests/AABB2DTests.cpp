@@ -5,7 +5,6 @@
 #include <gtest/gtest.h>
 #include "Primitives/AABB2D.h"
 
-
 TEST(AABB2D, CONSTRUCTOR){
 
 AABB2D aabb2D;

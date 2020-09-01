@@ -13,11 +13,11 @@
 class CollisionArea{
 
 public:
-    void BuildCollisionArea(const AABB2D&,const Line2D&);
-    void BuildCollisionArea(const AABB2D&, const HLine2D&);
-    void BuildCollisionArea(const AABB2D&, const VLine2D&);
-    void BuildCollisionArea(const AABB2D&, const Ray2D&);
-    void BuildCollisionArea(const AABB2D&, const Segment2D&);
+    static void BuildCollisionArea(const AABB2D&,const Line2D&);
+    static void BuildCollisionArea(const AABB2D&, const HLine2D&);
+    static void BuildCollisionArea(const AABB2D&, const VLine2D&);
+    static void BuildCollisionArea(const AABB2D&, const Ray2D&);
+    static  void BuildCollisionArea(const AABB2D&, const Segment2D&);
 
 };
 #endif //MATH_COLLISIONAREA2D_H

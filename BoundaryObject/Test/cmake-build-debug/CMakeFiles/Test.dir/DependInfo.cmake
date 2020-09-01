@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/Collision2DTests1.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/cmake-build-debug/CMakeFiles/Test.dir/CollisionTests/Collision2DTests1.cpp.obj"
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/CollisionTests.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/cmake-build-debug/CMakeFiles/Test.dir/CollisionTests/CollisionTests.cpp.obj"
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/IntersectionTests.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/cmake-build-debug/CMakeFiles/Test.dir/CollisionTests/IntersectionTests.cpp.obj"
+  "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/ZoneTests.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/cmake-build-debug/CMakeFiles/Test.dir/CollisionTests/ZoneTests.cpp.obj"
   "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/AABB2DTests.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/cmake-build-debug/CMakeFiles/Test.dir/MathTests/AABB2DTests.cpp.obj"
   "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/HLine2DTests.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/cmake-build-debug/CMakeFiles/Test.dir/MathTests/HLine2DTests.cpp.obj"
   "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Line2DTests.cpp" "C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/cmake-build-debug/CMakeFiles/Test.dir/MathTests/Line2DTests.cpp.obj"

@@ -6,7 +6,23 @@
 
 #IncludeRegexTransform: 
 
-../../Math/Intersections/StaticCollision.h
+../../Math/CollisionTest/CollisionTest.h
+Zone.h
+../../Math/CollisionTest/Zone.h
+../Primitives/HLine2D.h
+../../Math/Primitives/HLine2D.h
+../Primitives/VLine2D.h
+../../Math/Primitives/VLine2D.h
+../Primitives/Point2D.h
+../../Math/Primitives/Point2D.h
+../Primitives/Vector2D.h
+../../Math/Primitives/Vector2D.h
+../Primitives/Line2D.h
+../../Math/Primitives/Line2D.h
+
+../../Math/CollisionTest/Zone.h
+
+../../Math/Intersections/StaticIntersection.h
 ../Primitives/Point2D.h
 ../../Math/Primitives/Point2D.h
 ../Primitives/Line2D.h
@@ -15,6 +31,14 @@
 ../../Math/Primitives/HLine2D.h
 ../Primitives/VLine2D.h
 ../../Math/Primitives/VLine2D.h
+
+../../Math/Primitives/AABB2D.h
+Vector2D.h
+../../Math/Primitives/Vector2D.h
+AABB2D.inl
+../../Math/Primitives/AABB2D.inl
+
+../../Math/Primitives/AABB2D.inl
 
 ../../Math/Primitives/HLine2D.h
 Point2D.h
@@ -63,6 +87,12 @@ Vector2D.inl
 ../../Math/Primitives/Vector2D.inl
 
 ../../Math/Primitives/Vector2D.inl
+
+../../Math/StaticCollision/StaticCollision.h
+../Primitives/AABB2D.h
+../../Math/Primitives/AABB2D.h
+../Primitives/Line2D.h
+../../Math/Primitives/Line2D.h
 
 ../../Middleware/googletest/googletest/include/gtest/gtest-death-test.h
 gtest/internal/gtest-death-test-internal.h
@@ -358,19 +388,23 @@ cxxabi.h
 acxx_demangle.h
 -
 
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/Collision2DTests1.cpp
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/CollisionTests.cpp
 gtest/gtest.h
 -
-Intersections/StaticCollision.h
+StaticCollision/StaticCollision.h
+-
+
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/IntersectionTests.cpp
+gtest/gtest.h
+-
+Intersections/StaticIntersection.h
 -
 iostream
 -
 
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/Line2DTests.cpp
-Primitives/Line2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/ZoneTests.cpp
+CollisionTest/CollisionTest.h
 -
 gtest/gtest.h
--
-Intersections/StaticCollision.h
 -
 

@@ -92,7 +92,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/Collision2DTests1.cpp">
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/CollisionTests.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/IntersectionTests.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/CollisionTests/ZoneTests.cpp">
 			<Option target="Test"/>
 		</Unit>
 		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Test/MathTests/AABB2DTests.cpp">
