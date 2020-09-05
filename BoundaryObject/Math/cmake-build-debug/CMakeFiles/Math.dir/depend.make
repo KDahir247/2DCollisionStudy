@@ -66,6 +66,22 @@ CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.obj: ..\Primitives\VLin
 CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.obj: ..\Primitives\Vector2D.h
 CMakeFiles\Math.dir\Intersections\StaticIntersection.cpp.obj: ..\Primitives\Vector2D.inl
 
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\AABB2D.h
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\AABB2D.inl
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\HLine2D.h
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\HLine2D.inl
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Line2D.h
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Line2D.inl
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Point2D.h
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Point2D.inl
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Ray2D.h
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Ray2D.inl
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Segment2D.h
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Segment2D.inl
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\VLine2D.h
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\VLine2D.inl
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Vector2D.h
+CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\Primitives\Vector2D.inl
 CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\StaticCollision\StaticCollision.cpp
 CMakeFiles\Math.dir\StaticCollision\StaticCollision.cpp.obj: ..\StaticCollision\StaticCollision.h
 

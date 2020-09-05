@@ -6,19 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticIntersection.cpp
-StaticIntersection.h
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticIntersection.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/AABB2D.h
+Vector2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Vector2D.h
+AABB2D.inl
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/AABB2D.inl
 
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Intersections/StaticIntersection.h
-../Primitives/Point2D.h
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Point2D.h
-../Primitives/Line2D.h
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Line2D.h
-../Primitives/HLine2D.h
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/HLine2D.h
-../Primitives/VLine2D.h
-C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/VLine2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/AABB2D.inl
 
 C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/HLine2D.h
 Point2D.h
@@ -48,6 +42,22 @@ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/
 
 C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Point2D.inl
 
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Ray2D.h
+Vector2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Vector2D.h
+Ray2D.inl
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Ray2D.inl
+
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Ray2D.inl
+
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Segment2D.h
+Vector2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Vector2D.h
+Segment2D.inl
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Segment2D.inl
+
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Segment2D.inl
+
 C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/VLine2D.h
 Point2D.h
 C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Point2D.h
@@ -67,4 +77,22 @@ Vector2D.inl
 C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Vector2D.inl
 
 C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Vector2D.inl
+
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/StaticCollision/StaticCollision.cpp
+StaticCollision.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/StaticCollision/StaticCollision.h
+
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/StaticCollision/StaticCollision.h
+../Primitives/AABB2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/AABB2D.h
+../Primitives/Line2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Line2D.h
+../Primitives/HLine2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/HLine2D.h
+../Primitives/VLine2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/VLine2D.h
+../Primitives/Ray2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Ray2D.h
+../Primitives/Segment2D.h
+C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Segment2D.h
 

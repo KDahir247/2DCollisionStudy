@@ -10,6 +10,7 @@
 #include "../Primitives/HLine2D.h"
 #include "../Primitives/VLine2D.h"
 #include "../Primitives/Ray2D.h"
+#include "../Primitives/Segment2D.h"
 class StaticCollision {
 
 public:
@@ -17,6 +18,7 @@ public:
     static bool AABBHLineCollision(const AABB2D&, const HLine2D&);
     static bool AABBVLineCollision(const AABB2D&, const VLine2D&);
     static bool AABBRayCollision(const AABB2D&, const Ray2D&);
+    static bool AABBSegmentCollision(const AABB2D&, const Segment2D&);
 };
 
 

@@ -67,6 +67,22 @@ CMakeFiles/Math.dir/Intersections/StaticIntersection.cpp.obj
  C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Vector2D.h
  C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Vector2D.inl
 CMakeFiles/Math.dir/StaticCollision/StaticCollision.cpp.obj
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/AABB2D.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/AABB2D.inl
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/HLine2D.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/HLine2D.inl
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Line2D.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Line2D.inl
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Point2D.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Point2D.inl
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Ray2D.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Ray2D.inl
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Segment2D.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Segment2D.inl
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/VLine2D.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/VLine2D.inl
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Vector2D.h
+ C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/Primitives/Vector2D.inl
  C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/StaticCollision/StaticCollision.cpp
  C:/Users/kdahi/OneDrive/Documents/Clion/AABB/CollisionStudy/BoundaryObject/Math/StaticCollision/StaticCollision.h
 CMakeFiles/Math.dir/main.cpp.obj
